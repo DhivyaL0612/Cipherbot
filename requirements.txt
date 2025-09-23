@@ -3,3 +3,4 @@ crewai
 google-genai
 litellm
 aiohttp
+pysqlite3-binary
