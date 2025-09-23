@@ -1,0 +1,15 @@
+[theme]
+# A vibrant coral for interactive elements
+primaryColor = "#FF6347"
+
+# A deep ocean blue for the main content area
+backgroundColor = "#001A33"
+
+# A dark teal for the sidebar and widgets
+secondaryBackgroundColor = "#004B49"
+
+# A soft off-white for the text
+textColor = "#F0F0F0"
+
+# Set a clean, modern font
+font = "sans serif"
