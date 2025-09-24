@@ -1,6 +1,9 @@
 import streamlit as st
 from run import run_bot
 import os
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 
 # Call the function to load your custom CSS
 
