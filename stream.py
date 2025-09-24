@@ -1,9 +1,13 @@
+
+import bootstrap
+
+# 👇 Now safe to import other modules
 import streamlit as st
+from crewai.rag.config.types import RagConfigType
+
 from run import run_bot
 import os
-import sys
-import pysqlite3
-sys.modules["sqlite3"] = pysqlite3
+
 
 # Call the function to load your custom CSS
 
